@@ -3,7 +3,7 @@
 
 # Local .terraform directory
 .terraform/
-.terraform.*
+
 # Terraform state files (contain sensitive data and secrets)
 *.tfstate
 *.tfstate.*
